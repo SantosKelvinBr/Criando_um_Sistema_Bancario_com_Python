@@ -1,4 +1,4 @@
-# Sistema Bancário
+# Sistema Bancário 2.0
 
 Este é um projeto de **Sistema Bancário** desenvolvido em Python. O foco principal é oferecer uma solução inicial para operações bancárias, como **depósito**, **saque** e **emissão de extrato**.
 
@@ -26,16 +26,21 @@ O sistema é baseado em um menu interativo que permite ao usuário escolher entr
 - **Extrato**: Exibe um relatório das transações e o saldo atual.
 - **Sair**: Encerra o programa.
 
-## Limitações da Versão 1.0
+## Limitações da Versão 1.0 --- main_old.py
 
 - Não há autenticação de usuário.
 - Apenas uma conta é suportada.
 - Operações limitadas a saque, depósito e consulta de extrato.
 
+- ## Limitações da Versão 2.0
+
+- Não há autenticação de usuário.
+- Operações limitadas a saque, depósito e consulta de extrato.
+
 ## Melhorias Futuras
 
 - Implementação de autenticação para maior segurança.
-- Suporte a múltiplas contas.
+- Suporte a múltiplas contas. ( Suportado na nova versão)
 - Integração com um banco de dados para armazenar transações.
 - Adição de uma interface gráfica para facilitar a interação com o sistema.
 
